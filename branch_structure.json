@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1495-verify-the-app-token-payment-before-signing-fee",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1495-verify-the-app-token-payment-before-signing-fee": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1495-verify-the-app-token-payment-before-signing-fee",
+    "origin"
+  ]
+}
